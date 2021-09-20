@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "company": "123 Designs",
+    "phone": "444-555-6666"
+  },
+  {
+    "id": 2,
+    "name": "Pedro Lam",
+    "company": "Pedro Designs",
+    "phone": "444-555-6666"
+  },
+  {
+    "id": 3,
+    "name": "Donut Chestnut",
+    "company": "Dunkout Donuts",
+    "phone": "444-555-6666"
+  }
+]
